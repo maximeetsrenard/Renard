@@ -1,0 +1,19 @@
+/*
+Theme Name: Renard
+Author: Arbouille Maxime
+Author URI: http://www.maximearbouille.com
+Description: Thème for ets Renard
+Version: 1.0
+License: GNU General Public License v3 or later
+License URI: http://www.gnu.org/licenses/gpl-3.0.html
+*/
+
+* {
+    box-sizing: border-box;
+  
+  }
+  
+  body {
+      background-color: #f9f9f9;
+      font-family: Helvetica;
+  }
