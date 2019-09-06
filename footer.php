@@ -1,5 +1,5 @@
 <footer>
-      <p>Copyright &copy; 2017</p>
+      <p>Copyright &copy; 2019</p>
     </footer>
     <?php wp_footer(); ?>
   </body>
