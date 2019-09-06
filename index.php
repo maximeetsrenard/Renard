@@ -11,7 +11,7 @@
       </article>
 <?php endwhile; else : ?>
       <article>
-        <p>Sorry, no posts were found!</p>
+        <p>Désolé, aucun article n'a été trouvé !</p>
       </article>
 <?php endif; ?>
   </section><?php get_sidebar(); ?>
